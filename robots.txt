@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://wufulasiye.pages.dev/sitemap.xml
